@@ -1,0 +1,17 @@
+0. coding
+1. cooking
+2. cleaning
+0. cooking
+1. dsa
+2. communication
+3. ml
+4. internship+project
+0. fr
+1. fr
+2. fr
+1. fr
+2. fr
+3. fr
+1. fr
+2. fr
+3. fr
